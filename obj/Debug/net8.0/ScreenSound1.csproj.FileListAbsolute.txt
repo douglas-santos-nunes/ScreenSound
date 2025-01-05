@@ -12,3 +12,4 @@ C:\Users\dougl\source\repos\ScreenSound1\obj\Debug\net8.0\refint\ScreenSound1.dl
 C:\Users\dougl\source\repos\ScreenSound1\obj\Debug\net8.0\ScreenSound1.pdb
 C:\Users\dougl\source\repos\ScreenSound1\obj\Debug\net8.0\ScreenSound1.genruntimeconfig.cache
 C:\Users\dougl\source\repos\ScreenSound1\obj\Debug\net8.0\ref\ScreenSound1.dll
+C:\Users\dougl\source\repos\ScreenSound1\obj\Debug\net8.0\ScreenSound1.sourcelink.json

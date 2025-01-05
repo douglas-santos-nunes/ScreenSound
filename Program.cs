@@ -19,6 +19,6 @@ musica2.disponivel = true;
 albumMatue.AdicionarMusica(musica1);
 albumMatue.AdicionarMusica(musica2);
 
-
+albumMatue.ExibirMusicasDoAlbum();
 //musica1.ExibirNomeEArtista();
 

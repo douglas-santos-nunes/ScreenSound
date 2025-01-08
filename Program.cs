@@ -17,9 +17,5 @@ Musica musica2 = new Musica(teste, "Castlevania")
 albumMatue.AdicionarMusica(musica1);
 albumMatue.AdicionarMusica(musica2);
 
-//albumMatue.ExibirMusicasDoAlbum();
-//musica1.ExibirNomeEArtista();
-
-
 teste.AdicionarAlbum(albumMatue);
 teste.ExibirDiscografia();

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,39 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Banda.cs",
               "RelativeDocumentMoniker": "Banda.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Banda.cs",
               "RelativeToolTip": "Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T00:18:48.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
               "RelativeDocumentMoniker": "Album.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
               "RelativeToolTip": "Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T23:04:51.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Musica.cs",
               "RelativeDocumentMoniker": "Musica.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Musica.cs",
               "RelativeToolTip": "Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T00:25:48.092Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T00:23:26.116Z",
               "EditorCaption": ""

@@ -13,7 +13,7 @@
 
     public void AdicionarEpisodio(Episodio episodio)
     {
-        episodio.Add(episodio);
+        episodios.Add(episodio);
     }
     public void ExibirDetalhes()
     {

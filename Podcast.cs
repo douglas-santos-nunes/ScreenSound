@@ -18,6 +18,17 @@
     public void ExibirDetalhes()
     {
         Console.WriteLine($"{Nome} - {Host}");
+        Console.WriteLine($"Lista de Episodios: \n");
+        foreach (var episodio in episodios)
+        {
+            Console.WriteLine($"Ordem : {episodio.Ordem} \n");
+            Console.WriteLine($"Título : {episodio.Titulo} \n");
+            Console.WriteLine($"Duração : {episodio.Duracao} \n");
+            Console.WriteLine($"Resumo : {episodio.Resumo} \n");
+            Console.WriteLine("-----------------------------------------------");
+
+        }
+        Console.WriteLine($"Numero de Episodios: {episodios.Count()}");
     }
 
 }

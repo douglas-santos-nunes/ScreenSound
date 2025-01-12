@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|c:\\users\\dougl\\source\\repos\\screensound1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF701C-2936-4C5A-A55F-4BB3C78215F5}|ScreenSound1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +34,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 93,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Podcast.cs",
+              "RelativeToolTip": "Podcast.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:48:40.66Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Episodio.cs",
+              "RelativeDocumentMoniker": "Episodio.cs",
+              "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Episodio.cs",
+              "RelativeToolTip": "Episodio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:53:50.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
+              "RelativeDocumentMoniker": "Album.cs",
+              "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
+              "RelativeToolTip": "Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:04:51.799Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Banda.cs",
               "RelativeDocumentMoniker": "Banda.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Banda.cs",
               "RelativeToolTip": "Banda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T00:18:48.301Z",
               "EditorCaption": ""
@@ -48,38 +97,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Album.cs",
-              "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
-              "RelativeDocumentMoniker": "Album.cs",
-              "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Album.cs",
-              "RelativeToolTip": "Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T23:04:51.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Musica.cs",
               "RelativeDocumentMoniker": "Musica.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Musica.cs",
               "RelativeToolTip": "Musica.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T00:25:48.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dougl\\source\\repos\\ScreenSound1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T00:23:26.116Z",
               "EditorCaption": ""

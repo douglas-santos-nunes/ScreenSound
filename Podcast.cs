@@ -5,30 +5,27 @@
         Nome = nome;
         Host = host;
     }
-    private List<Episodio> episodios = new List<Episodio>();
+    private List<Episodio> episodios = new();
 
     public string Nome { get; }
     public string Host {  get; }
-    public int TotalEpisodios { get; set; }
-
+    //public int TotalEpisodios { get; set; }
+    public int TotalEpisodios => episodios.Count;
+    
     public void AdicionarEpisodio(Episodio episodio)
     {
         episodios.Add(episodio);
     }
     public void ExibirDetalhes()
     {
-        Console.WriteLine($"{Nome} - {Host}");
+        Console.WriteLine($"Podcast {Nome} - Apresentado por {Host}\n");
         Console.WriteLine($"Lista de Episodios: \n");
-        foreach (var episodio in episodios)
+        foreach (Episodio episodio in episodios.OrderBy(e => e.Ordem))
         {
-            Console.WriteLine($"Ordem : {episodio.Ordem} \n");
-            Console.WriteLine($"Título : {episodio.Titulo} \n");
-            Console.WriteLine($"Duração : {episodio.Duracao} \n");
-            Console.WriteLine($"Resumo : {episodio.Resumo} \n");
-            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine($"{episodio.Resumo} \n");
 
         }
-        Console.WriteLine($"Numero de Episodios: {episodios.Count()}");
+        Console.WriteLine($"Numero de Episodios: {TotalEpisodios}");
     }
 
 }
